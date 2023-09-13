@@ -10,7 +10,8 @@
 <h4>This project is part of JavaScript Mastery tutorial</h4>
 <p><a href="https://www.youtube.com/@javascriptmastery" target="blank"></a> 
 </p>
-## Features
+
+# Features
 
 - Next.js 13 App Router and Server Side Rendering
 - Implement Advanced Search Functionality
