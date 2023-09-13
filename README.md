@@ -2,7 +2,7 @@
 
 <p>modern Next JS application using React, Next JS 13, TypeScript and Tailwind CSS</p>
 
-<p><a href="https://cars-showcase-swsh.vercel.app/" target="blank">View the project</a> 
+<p><a href="https://car-showcase-six-steel.vercel.app/" target="blank">View the project</a> 
 </p>
 
 ![image not found](https://res.cloudinary.com/airbnb22/image/upload/v1694584636/carhub_l4bble.jpg)
